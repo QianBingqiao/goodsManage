@@ -1,0 +1,2 @@
+# goodsManage
+goods Manage
